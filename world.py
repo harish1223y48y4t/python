@@ -1,3 +1,5 @@
-# This program prints Hello, world!
+import os 
+input_location = 'C:\Users\gadih\OneDrive\Pictures\Screenshots'
+os.path(input_location)== True
 
-prit('Hello, world!')
+print('testing for lfi')
